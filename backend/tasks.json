@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Complete Flask API",
+    "description": "Build and test the authentication system.",
+    "status": "pending",
+    "assigned_to": "testuser@example.com"
+  },
+  {
+    "title": "Integrate AI Suggestions",
+    "description": "Implement OpenAI's API for task recommendations.",
+    "status": "in-progress",
+    "assigned_to": "admin@example.com"
+  }
+]
